@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CITAS</string>
+    <string name="txtDatos">REALIZAR CITA</string>
+    <string name="txtseparar">Detalles de la Factura</string>
+    <string name="txtNombre">Nombre:</string>
+    <string name="hint_Nombre">Ingrese su Nombre</string>
+    <string name="hint_telefono">Ingrese su Numero</string>
+    <string name="hint_Apellidos">Ingrese sus Apellidos</string>
+    <string name="hint_Correo">Ingrese su Correo</string>
+    <string name="hint_Domicilio">Ingrese su Domicilio</string>
+
+
+</resources>

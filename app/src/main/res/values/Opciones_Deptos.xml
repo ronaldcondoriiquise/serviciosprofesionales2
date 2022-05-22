@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="strDeptos">
+        <item>8:00 AM</item>
+        <item>11:30 AM</item>
+        <item>2:10 PM</item>
+        <item>3:00 PM</item>
+    </string-array>
+</resources>
